@@ -13,3 +13,16 @@ App que centraliza en un solo lugar eventos holísticos (presenciales y virtuale
 - Los participantes apartan un cupo (máximo 2 por persona), que expira en 30 minutos si el host no lo confirma.
 - Preguntas públicas tipo FAQ entre participantes y hosts.
 - Lista de espera para eventos llenos.
+## Estado del proyecto
+
+En construcción — proyecto de práctica para aprender Spec-Driven Development, Git/GitHub y desarrollo full-stack.
+
+## Fases del proyecto
+
+- [x] 00 — Encuadre
+- [x] 01 — Spec (Spec-Driven Development)
+- [ ] 02 — UX/UI
+- [x] 03 — Repo real (GitHub)
+- [ ] 04 — Desarrollo
+- [ ] 05 — Deploy
+- [ ] 06 — Cierre
